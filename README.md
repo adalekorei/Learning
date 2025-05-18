@@ -7,7 +7,7 @@ repeat:
 
 ->
 ID 1-8ep
-bloc 
+bloc / done
 
 ->
 illin
